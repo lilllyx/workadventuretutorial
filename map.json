@@ -67,7 +67,7 @@
          "height":50,
          "id":2,
          "name":"Foreground_behind_char",
-         "opacity":0.33,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":50,
